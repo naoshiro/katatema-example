@@ -1,0 +1,15 @@
+{
+  "name": "katatema_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "katatema serve",
+    "build": "katatema build"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "katatema": "^0.1.7"
+  }
+}
